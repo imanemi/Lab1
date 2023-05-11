@@ -16,7 +16,7 @@ public class BonjourToutLeMonde {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.printf("hello %s %s",args[0],args[1]);
+        System.out.printf("hello Nom %s %s",args[0],args[1]);
     }
     
 }
